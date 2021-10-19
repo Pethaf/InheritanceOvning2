@@ -1,0 +1,16 @@
+C:\Users\ÄGAREN\source\repos\RepetitionInherticance2\RepetitionInherticance2\bin\Debug\net5.0\RepetitionInherticance2.exe
+C:\Users\ÄGAREN\source\repos\RepetitionInherticance2\RepetitionInherticance2\bin\Debug\net5.0\RepetitionInherticance2.deps.json
+C:\Users\ÄGAREN\source\repos\RepetitionInherticance2\RepetitionInherticance2\bin\Debug\net5.0\RepetitionInherticance2.runtimeconfig.json
+C:\Users\ÄGAREN\source\repos\RepetitionInherticance2\RepetitionInherticance2\bin\Debug\net5.0\RepetitionInherticance2.runtimeconfig.dev.json
+C:\Users\ÄGAREN\source\repos\RepetitionInherticance2\RepetitionInherticance2\bin\Debug\net5.0\RepetitionInherticance2.dll
+C:\Users\ÄGAREN\source\repos\RepetitionInherticance2\RepetitionInherticance2\bin\Debug\net5.0\ref\RepetitionInherticance2.dll
+C:\Users\ÄGAREN\source\repos\RepetitionInherticance2\RepetitionInherticance2\bin\Debug\net5.0\RepetitionInherticance2.pdb
+C:\Users\ÄGAREN\source\repos\RepetitionInherticance2\RepetitionInherticance2\obj\Debug\net5.0\RepetitionInherticance2.csproj.AssemblyReference.cache
+C:\Users\ÄGAREN\source\repos\RepetitionInherticance2\RepetitionInherticance2\obj\Debug\net5.0\RepetitionInherticance2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÄGAREN\source\repos\RepetitionInherticance2\RepetitionInherticance2\obj\Debug\net5.0\RepetitionInherticance2.AssemblyInfoInputs.cache
+C:\Users\ÄGAREN\source\repos\RepetitionInherticance2\RepetitionInherticance2\obj\Debug\net5.0\RepetitionInherticance2.AssemblyInfo.cs
+C:\Users\ÄGAREN\source\repos\RepetitionInherticance2\RepetitionInherticance2\obj\Debug\net5.0\RepetitionInherticance2.csproj.CoreCompileInputs.cache
+C:\Users\ÄGAREN\source\repos\RepetitionInherticance2\RepetitionInherticance2\obj\Debug\net5.0\RepetitionInherticance2.dll
+C:\Users\ÄGAREN\source\repos\RepetitionInherticance2\RepetitionInherticance2\obj\Debug\net5.0\ref\RepetitionInherticance2.dll
+C:\Users\ÄGAREN\source\repos\RepetitionInherticance2\RepetitionInherticance2\obj\Debug\net5.0\RepetitionInherticance2.pdb
+C:\Users\ÄGAREN\source\repos\RepetitionInherticance2\RepetitionInherticance2\obj\Debug\net5.0\RepetitionInherticance2.genruntimeconfig.cache
